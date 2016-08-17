@@ -1,7 +1,7 @@
 name: Astra Sheepdog Centre
 favicon: null
-layout_spectrum: 0.49715170729905367
-typography_spectrum: 0.7013971377164125
+layout_spectrum: 0.80484
+typography_spectrum: 0.24108
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.11730628041550517
-  lightness: 0.009409585501998663
-  saturation: 0.5037202453240752
-  rhythmicContrast: 0.8557613489683717
+    - '#0d1a08'
+    - '#d7cbb1'
+    - '#77a038'
+    - '#244400'
+    - '#606545'
+  brandStrength: 0.25
+  lightness: 0.4375
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose: []
